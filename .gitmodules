@@ -1,3 +1,0 @@
-[submodule "src"]
-	path = src
-	url = https://github.com/felixc977/stable-diffusion-webui.git
